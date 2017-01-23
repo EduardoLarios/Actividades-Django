@@ -1,4 +1,4 @@
-#!/home/esteban/myenv/bin/python
+#!/home/esteban/Documentos/Repositorios/Actividades-Django/myenv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'Django==1.10.5','console_scripts','django-admin'
 __requires__ = 'Django==1.10.5'
 import re
