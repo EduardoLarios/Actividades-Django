@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'charapterone.urls'
+ROOT_URLCONF = 'tutorials.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'charapterone.wsgi.application'
+WSGI_APPLICATION = 'tutorials.wsgi.application'
 
 
 # Database
